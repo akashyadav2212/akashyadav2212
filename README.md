@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Programmer;Learning+C%2B%2B+Python+Java;Exploring+DSA+and+Problem+Solving;Future+Software+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Programmer;Learning+C%2B%2B+Python+Java;Exploring+DSA+and+Problem+Solving;Tech+and+Entrepreneurship+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ---
@@ -10,8 +10,8 @@
 - 🌱 Currently learning **C++, Python, and Java**
 - 💡 Interested in **Data Structures and Algorithms**
 - 🧠 Love solving **coding problems and logical challenges**
-- 🚀 Working on improving **programming fundamentals**
-- 📚 Always learning new technologies
+- 🚀 Interested in **Technology, Startups, and Entrepreneurship**
+- 📚 Always learning new technologies and exploring innovative ideas
 
 ---
 
@@ -44,7 +44,8 @@
 - Competitive Programming
 - Data Structures & Algorithms
 - Software Development
-- Learning new programming technologies
+- Technology & Startups
+- Entrepreneurship
 
 ---
 
