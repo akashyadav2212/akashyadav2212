@@ -44,6 +44,7 @@
 - Competitive Programming
 - Data Structures & Algorithms
 - Software Development
+- Web Development
 - Technology & Startups
 - Entrepreneurship
 
